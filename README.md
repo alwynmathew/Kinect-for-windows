@@ -31,3 +31,5 @@ Kinect For Windows Developer Toolkit may be downloaded [here](http://www.softped
 
 - Go to Start Menu  
 - Kinect for Windows Developer Toolkit
+- You will see a list of C++,C#, VB samples
+- Install and Run to see it action
