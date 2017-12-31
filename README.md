@@ -3,8 +3,6 @@
 Kinect is a motion sensing input device by Microsoft for the Xbox 360 video game console and  Windows PCs. Based around a webcam-style add-on peripheral for the Xbox 360 console, it  enables users to control and interact with the Xbox 360 without the need to touch a game  controller, through a natural user interface using gestures and spoken commands.The project is  aimed at broadening the Xbox 360's audience beyond its typical gamer base. Microsoft released  Kinect software development kit for Windows 7 in June, 2011. This SDK allows developers to 
 write Kinecting apps in C++/CLI, C#, or Visual Basic .NET.
 
-Note: Works with Windows 10
-
 ## Requirements
 
 - Kinect for Xbox 360 / Kinect for Windows sensor
@@ -33,3 +31,5 @@ Kinect For Windows Developer Toolkit may be downloaded [here](http://www.softped
 - Kinect for Windows Developer Toolkit
 - You will see a list of C++,C#, VB samples
 - Install and Run to see it action
+
+**Note: Tested on Windows 10 with Visual Studio 2012 Express (Direct X 12 & Toolkit v1.8.0)**
