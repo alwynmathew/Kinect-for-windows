@@ -30,6 +30,6 @@ Kinect For Windows Developer Toolkit can be downloaded [here](http://www.softped
 - Go to Start Menu  
 - Search for "Kinect for Windows Developer Toolkit"
 - You will see a list of C++,C#, VB samples
-- Install and Run to see it action
+- Install and Run to see it in action
 
 **Note: Tested on Windows 10 with Visual Studio 2012 Express (Direct X12 & Toolkit v1.8.0)**
