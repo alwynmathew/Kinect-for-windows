@@ -18,18 +18,18 @@ Kinect For Windows Developer Toolkit can be downloaded [here](http://www.softped
 
 ## Install SDK
 
-- Make sure the Kinect sensor is not plugged into any of the USB ports on the computer.
-- If you installed a previous version of the Kinect for Windows SDK, you must uninstall it before proceeding.
-- Remove any other drivers for the Kinect sensor.
-- Close Visual Studio. You must close Visual Studio before installing the SDK and then restart it after installation is complete to pick up environment variables that the SDK requires.
-- Once the SDK has completed installing successfully, ensure the Kinect sensor is plugged into an external power source and then plug the Kinect sensor into the PC's USB port. The drivers will load automatically.
-- The Kinect sensor should now be working correctly.
+* Make sure the Kinect sensor is not plugged into any of the USB ports on the computer.
+* If you installed a previous version of the Kinect for Windows SDK, you must uninstall it before proceeding.
+* Remove any other drivers for the Kinect sensor.
+* Close Visual Studio. You must close Visual Studio before installing the SDK and then restart it after installation is complete to pick up environment variables that the SDK requires.
+* Once the SDK has completed installing successfully, ensure the Kinect sensor is plugged into an external power source and then plug the Kinect sensor into the PC's USB port. The drivers will load automatically.
+* The Kinect sensor should now be working correctly.
 
 ## Testing SDK
 
-- Go to Start Menu  
-- Search for "Kinect for Windows Developer Toolkit"
-- You will see a list of C++,C#, VB samples
-- Install and Run to see it in action
+* Go to Start Menu  
+* Search for "Kinect for Windows Developer Toolkit"
+* You will see a list of C++,C#, VB samples
+* Install and Run to see it in action
 
 **Note: Tested on Windows 10 with Visual Studio 2012 Express (Direct X12 & Toolkit v1.8.0)**
