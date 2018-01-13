@@ -30,4 +30,11 @@ Kinect SDK includes drivers, rich APIs for raw sensor streams and human motion t
 3. You will see a list of C++,C# samples
 4. Click "Install" and "Run Sample" to see it in action
 
+## Files
+
+- C# samples - Kinect for windows C# samples.rar 
+- VB samples - Kinect for windows CV samples.rar
+- C++ samples - Kinect for windows C++ samples
+- Dependencies - Dependencies.rar
+
 **Note: Tested on Windows 10 with Visual Studio 2013 Community update 5 (Direct X12 & Kinect SDK v1.0)**
