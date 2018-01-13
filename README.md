@@ -6,15 +6,13 @@ write Kinecting apps in C++/CLI, C#, or Visual Basic .NET.
 ## Requirements
 
 - Kinect for Xbox 360 / Kinect for Windows sensor
-- Visual Studio 2010 Express (or 2012 edition)
+- Visual Studio 2013 Community update 5([download](https://www.visualstudio.com/en-us/news/releasenotes/vs2013-community-vs#download-visual-studio-2013-community))
 - Microsoft .NET Framework 4.0 
 - Microsoft DirectX 9 or later
 
-## Getting Started With Microsoft Kinect SDK 1.5
+## Getting Started With Microsoft Kinect SDK 1.0
 
-Kinect SDK includes drivers, rich APIs for raw sensor streams and human motion tracking,  installation documents, and resource materials. Kinect SDK is a freeware and can be  downloaded [here](http://www.softpedia.com/progDownload/Kinect-SDK-Download-190054.html). 
-
-Kinect For Windows Developer Toolkit can be downloaded [here](http://www.softpedia.com/progDownload/Kinect-for-Windows-Developer-Toolkit-Download-217211.html) 
+Kinect SDK includes drivers, rich APIs for raw sensor streams and human motion tracking,  installation documents, and resource materials. Kinect SDK is a freeware and can be  downloaded [here](https://www.visualstudio.com/en-us/news/releasenotes/vs2013-update5-vs). 
 
 ## Install SDK
 
@@ -28,8 +26,8 @@ Kinect For Windows Developer Toolkit can be downloaded [here](http://www.softped
 ## Testing SDK
 
 1. Go to Start Menu  
-2. Search for "Kinect for Windows Developer Toolkit"
-3. You will see a list of C++,C#, VB samples
-4. Install and Run to see it in action
+2. Search for "Kinect SDK Sample Browser"
+3. You will see a list of C++,C# samples
+4. Click "Install" and "Run Sample" to see it in action
 
-**Note: Tested on Windows 10 with Visual Studio 2012 Express (Direct X12 & Toolkit v1.8.0)**
+**Note: Tested on Windows 10 with Visual Studio 2013 Community update 5 (Direct X12 & Kinect SDK v1.0)**
