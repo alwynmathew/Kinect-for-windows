@@ -12,7 +12,7 @@ write Kinecting apps in C++/CLI, C#, or Visual Basic .NET.
 
 ## Getting Started With Microsoft Kinect SDK 1.0
 
-Kinect SDK includes drivers, rich APIs for raw sensor streams and human motion tracking,  installation documents, and resource materials. Kinect SDK is a freeware and can be  downloaded [here](https://www.visualstudio.com/en-us/news/releasenotes/vs2013-update5-vs). 
+Kinect SDK includes drivers, rich APIs for raw sensor streams and human motion tracking,  installation documents, and resource materials. Kinect SDK is a freeware and can be  downloaded [[here](https://www.visualstudio.com/en-us/news/releasenotes/vs2013-update5-vs)]. 
 
 ## Install SDK
 
